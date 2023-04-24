@@ -153,4 +153,4 @@ These wouldn't necessarily be all of the permissions, and these are just example
 This is something that wouldn't have to be a part of the parties feature, but would be very useful. It would allow for a file to be generated that somehow can load the current party. It would have the ranks, the permissions, and everything of that party stored in that key so even in another server with this same parties feature, the host could use this key and have their old party from another server back.<br>
 
 
-List is to be updated, I'm super tired and hopefully I can get at least 6 hours of sleep tonight (trying to aim for 6.5 if possible)
+List is to be updated, I'm super tired and hopefully I can get at least 6 hours of sleep tonight (trying to aim for 6.5 if possible). If you don't know what ZeoBot is, that's fine, I made this list for Bloxs (aka Blocks_n_more) for his bot, called Bidome. I just copied and pasted the ideas here so you guys can see it.
