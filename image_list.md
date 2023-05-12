@@ -1,5 +1,7 @@
 # List of images
 
+**UPDATE:** This list is no longer used! Please use https://tnology.dev/images instead.
+
 **Better Call Tucker -** https://url.tnology.dev/better_call_tucker<br>
 
 **ENJOY YOUR FOOD -** https://url.tnology.dev/ENJOY_YOUR_FOOD<br>
