@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Tnology
-- 👀 I’m interested in technology and have a passion for it
-- 🌱 I’m currently learning Discord.py and more about Python
+# 👋 Hey, I'm T_nology.
+<h4>I'm a frontend web developer with a strong passion for technology.</h4>
 
-<!---
-Tnology/Tnology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The languages I currently know are **Python**, **JavaScript**, **TypeScript**, **HTML/JSX**, and **CSS**. I use the NextJS framework for creating websites, and I have future plans on learning SQL.
 
-Yes I used the default template lol
+If you want to get in contact with me, feel free to join my Discord server 👉 https://url.tnology.dev/discord
